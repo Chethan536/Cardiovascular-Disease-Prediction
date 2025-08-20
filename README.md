@@ -58,8 +58,8 @@ The **LinearSVC model** emerged as the final chosen model due to its exceptional
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/Chethan536/Cardiovascular-Disease-Prediction]
-    cd [Cardiovascular-Disease-Prediction]
+    git clone https://github.com/Chethan536/Cardiovascular-Disease-Prediction
+    cd Cardiovascular-Disease-Prediction
     ```
 2.  **Install prerequisites:** Ensure you have Python and `pip` installed.
     ```bash
